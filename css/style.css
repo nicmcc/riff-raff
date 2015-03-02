@@ -1,5 +1,6 @@
 body {
 
-	background: rgba(0, 0, 0, .5);
+	background: #000 url("") no-repeat right top;
 	font-family: sans-serif;
+	color: #FFF;
 }
